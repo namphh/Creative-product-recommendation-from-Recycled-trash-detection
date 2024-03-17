@@ -1,4 +1,4 @@
-# Creative product recommendation from Recycled trash detection | GDSC Hackathon Vietnam 2024
+# Creative product recommendation from Recycled trash detection | Champion of GDSC Hackathon Vietnam 2024
 ## Deploy Streamlit: https://com-delta-gdsc.streamlit.app/
 
 This project is the submission for the GDSC Hackathon Vietnam 2024. The application is deployed using Streamlit. The app allows users to capture an image, perform object recognition, and calculate the total quantity of each recognized ingredient in the image. Subsequently, it suggests suitable items that can be created from the recognized materials. After selecting the desired item, the application provides detailed information including: ID, name, URL, difficulty level, danger level, and any surplus or deficient ingredients.
